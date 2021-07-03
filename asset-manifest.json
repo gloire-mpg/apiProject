@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/apiProject/static/css/main.4d04be1c.chunk.css",
+    "main.js": "/apiProject/static/js/main.16c90900.chunk.js",
+    "main.js.map": "/apiProject/static/js/main.16c90900.chunk.js.map",
+    "runtime-main.js": "/apiProject/static/js/runtime-main.bb7312b7.js",
+    "runtime-main.js.map": "/apiProject/static/js/runtime-main.bb7312b7.js.map",
+    "static/js/2.fbc8c138.chunk.js": "/apiProject/static/js/2.fbc8c138.chunk.js",
+    "static/js/2.fbc8c138.chunk.js.map": "/apiProject/static/js/2.fbc8c138.chunk.js.map",
+    "index.html": "/apiProject/index.html",
+    "precache-manifest.49c5e1dfd65943f181fa4aa1b0115f09.js": "/apiProject/precache-manifest.49c5e1dfd65943f181fa4aa1b0115f09.js",
+    "service-worker.js": "/apiProject/service-worker.js",
+    "static/css/main.4d04be1c.chunk.css.map": "/apiProject/static/css/main.4d04be1c.chunk.css.map",
+    "static/js/2.fbc8c138.chunk.js.LICENSE.txt": "/apiProject/static/js/2.fbc8c138.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/apiProject/static/media/bg.1be2d3a0.jpg",
+    "static/media/logo.png": "/apiProject/static/media/logo.3795f66d.png",
+    "static/media/spinner.gif": "/apiProject/static/media/spinner.235b9b3e.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb7312b7.js",
+    "static/js/2.fbc8c138.chunk.js",
+    "static/css/main.4d04be1c.chunk.css",
+    "static/js/main.16c90900.chunk.js"
+  ]
+}
